@@ -1,4 +1,4 @@
-# passwort-manager
+# pw_manage
 Simple terminal password manager
 ------------------------------------------
 simple password manager <br>
