@@ -1,0 +1,5 @@
+functools
+sqlite3
+hashlib
+os
+gnupg
