@@ -6,8 +6,8 @@ import sqlite3, hashlib, os, gnupg
 gpg = gnupg.GPG(gnupghome='/****/****/.****')
 masterpass = os.environ.get('****')
 path = '/****/****/****/****/****'
-encfile = '/pass.db'
-decfile = '/pass.db.encrypted'
+decfile = '/pass.db'
+encfile = '/pass.db.encrypted'
 
 #GnuPG Datei 
 def encryption():
